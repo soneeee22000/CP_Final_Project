@@ -1,4 +1,4 @@
-# CP_Final_Project
+# Raman_Spectroscopy_AIT_ComputerProgramming_Final_Project
 my personal take on Computer Programming for Data Science and AI class Final Project 
 
 ![image](https://github.com/soneeee22000/CP_Final_Project/assets/109932809/28672fc0-62cc-4653-965e-c57cf18d6f92)
